@@ -1,0 +1,16 @@
+{
+  "name": "Next.js Bootstrap Boilerplate",
+  "short_name": "Bootstrap BP",
+  "description": "A clean Next.js App Router boilerplate with Bootstrap 5",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ]
+}
